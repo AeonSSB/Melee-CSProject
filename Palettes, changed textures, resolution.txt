@@ -4,7 +4,13 @@ Some character costumes use palettes instead of textures for certain parts of th
 The exact colours have been copied from HSDraw into very small .png images. Make sure to
 edit them if the costume you want to render has custom palettes.
 
-Those characters are Ganondorf and Falco.
+Those characters are:
+- Ganondorf
+  - The jewel on his front uses the Ambient palette of Object 24
+  - His earrings use the Ambient palette of Object 37
+  - His necklace uses the Ambient palette of Object 65
+- Falco
+  - The inner part of the jacket uses the Diffuse palette of Object 24
 
 
 CHANGED TEXTURES
