@@ -1,0 +1,28 @@
+PALETTES
+
+Some character costumes use palettes instead of textures for certain parts of the models.
+The exact colours have been copied from HSDraw into very small .png images. Make sure to
+edit them if the costume you want to render has custom palettes.
+
+Those characters are Ganondorf and Falco.
+
+
+CHANGED TEXTURES
+
+Melee uses extra textures for characters' expressions. All the images used by vanilla Melee
+are included, but note that they don't share the same names and have to be picked manually
+from the shader editor before rendering if they're needed.
+In order to have more freedom with characters' expressions, some have Smash 2 textures set
+up instead of Melee ones. In case you want to render a costume with elements like Fox's
+eyes edited, you'll need to either remake the edits with the Smash 2 textures provided
+or replace them with your own Melee textures.
+
+[list characters that use Melee's alternative expression textures]
+[list characters that use Smash 2 textures; edit the text if Fox isn't one of these]
+
+
+RESOLUTION
+
+CSPs and stock icons are rendered both at a high resolution for HD textures and lower for
+ISOs. If you need other specific resolutions make sure to edit them in the scenes themselves
+before rendering.
