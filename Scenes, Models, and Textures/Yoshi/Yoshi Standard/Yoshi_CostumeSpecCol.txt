@@ -21,3 +21,12 @@ Pi:
 - Eyelids: #ff6699
 - Shoes: #ffff00
 
+Re:
+- Skin: #cc8080
+- Eyelids: #cc8080
+- Shoes: #9900cc
+
+Ye:
+- Skin: #ffff4c
+- Eyelids: #ffff4c
+- Shoes: #00ff66
