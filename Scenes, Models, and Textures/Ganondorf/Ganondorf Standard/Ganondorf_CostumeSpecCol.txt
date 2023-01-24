@@ -1,0 +1,32 @@
+These are the colors and specular colors used for each of Ganondorf's costumes (in hex). Paste these on the appropriate
+property in Ganondorf's armature.
+
+Bu:
+- Jewel_Col: #00FFFF
+- Jewel_SpecCol: #00FFFF
+- Earring_Col: #00FFFF
+- Earring_SpecCol: #00FFFF
+
+Gr:
+- Jewel_Col: #CCCC00
+- Jewel_SpecCol: #FFFFFF
+- Earring_Col: #CCCC00
+- Earring_SpecCol: #FFFFFF
+
+La:
+- Jewel_Col: #C080FF
+- Jewel_SpecCol: #FFFFFF
+- Earring_Col: #C080FF
+- Earring_SpecCol: #FFFFFF
+
+Nr:
+- Jewel_Col: #FFAB02
+- Jewel_SpecCol: #FFFFC7
+- Earring_Col: #FF7902
+- Earring_SpecCol: #FFFFC7
+
+Re:
+- Jewel_Col: #cc3a4a
+- Jewel_SpecCol: #ffcce6
+- Earring_Col: #cc3a4a
+- Earring_SpecCol: #ffcce6
