@@ -1,0 +1,16 @@
+These are the coat's specular colors used for each of Popo's and Nana's costumes (in hex). You can paste these on the 
+"Coat_SpecCol" property in their respective armature.
+
+Popo:
+- Nr: #281E99
+- Gr: #281E99
+- Aq: #994C66
+- Wh: #994C66
+
+Nana:
+- Nr: #994C66
+- Ye: #994C66
+- Or: #281E99
+- Re: #281E99
+
+Leading Climber uses Popo's specular color (#281E99) while Helper Climber uses Nana's (#994C66).
