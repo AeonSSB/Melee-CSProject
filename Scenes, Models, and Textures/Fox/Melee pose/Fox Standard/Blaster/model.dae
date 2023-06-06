@@ -1,0 +1,2292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.4.1" xmlns="http://www.collada.org/2005/11/COLLADASchema">
+    <asset>
+        <created>2023-04-26T12:10:54.2181464-04:00</created>
+        <modified>2023-04-26T12:10:54.2181464-04:00</modified>
+        <unit name="Meter" />
+        <contributor>
+            <authoring_tool>IONET Exporter</authoring_tool>
+        </contributor>
+    </asset>
+    <library_images>
+        <image id="Texture_0_CMP-image" name="Texture_0_CMP">
+            <init_from>Texture_0_CMP.png</init_from>
+        </image>
+        <image id="Texture_1_CMP-image" name="Texture_1_CMP">
+            <init_from>Texture_1_CMP.png</init_from>
+        </image>
+        <image id="Texture_2_CMP-image" name="Texture_2_CMP">
+            <init_from>Texture_2_CMP.png</init_from>
+        </image>
+        <image id="Texture_3_CI4_RGB5A3-image" name="Texture_3_CI4_RGB5A3">
+            <init_from>Texture_3_CI4_RGB5A3.png</init_from>
+        </image>
+        <image id="Texture_4_CMP-image" name="Texture_4_CMP">
+            <init_from>Texture_4_CMP.png</init_from>
+        </image>
+        <image id="Texture_5_CMP-image" name="Texture_5_CMP">
+            <init_from>Texture_5_CMP.png</init_from>
+        </image>
+        <image id="Texture_6_CMP-image" name="Texture_6_CMP">
+            <init_from>Texture_6_CMP.png</init_from>
+        </image>
+        <image id="Texture_7_CMP-image" name="Texture_7_CMP">
+            <init_from>Texture_7_CMP.png</init_from>
+        </image>
+        <image id="Texture_8_CMP-image" name="Texture_8_CMP">
+            <init_from>Texture_8_CMP.png</init_from>
+        </image>
+        <image id="Texture_9_CMP-image" name="Texture_9_CMP">
+            <init_from>Texture_9_CMP.png</init_from>
+        </image>
+        <image id="Texture_10_CMP-image" name="Texture_10_CMP">
+            <init_from>Texture_10_CMP.png</init_from>
+        </image>
+        <image id="Texture_11_CMP-image" name="Texture_11_CMP">
+            <init_from>Texture_11_CMP.png</init_from>
+        </image>
+        <image id="Texture_12_CI8_RGB565-image" name="Texture_12_CI8_RGB565">
+            <init_from>Texture_12_CI8_RGB565.png</init_from>
+        </image>
+        <image id="Texture_13_CMP-image" name="Texture_13_CMP">
+            <init_from>Texture_13_CMP.png</init_from>
+        </image>
+        <image id="Texture_14_I4-image" name="Texture_14_I4">
+            <init_from>Texture_14_I4.png</init_from>
+        </image>
+        <image id="Texture_15_CMP-image" name="Texture_15_CMP">
+            <init_from>Texture_15_CMP.png</init_from>
+        </image>
+    </library_images>
+    <library_materials>
+        <material id="Joint_3_Object_0_Material_0" name="Joint_3_Object_0_Material_0">
+            <instance_effect url="#Joint_3_Object_0_Material_0-effect" />
+        </material>
+        <material id="Joint_3_Object_1_Material_1" name="Joint_3_Object_1_Material_1">
+            <instance_effect url="#Joint_3_Object_1_Material_1-effect" />
+        </material>
+        <material id="Joint_3_Object_2_Material_2" name="Joint_3_Object_2_Material_2">
+            <instance_effect url="#Joint_3_Object_2_Material_2-effect" />
+        </material>
+        <material id="Joint_3_Object_3_Material_3" name="Joint_3_Object_3_Material_3">
+            <instance_effect url="#Joint_3_Object_3_Material_3-effect" />
+        </material>
+        <material id="Joint_3_Object_4_Material_4" name="Joint_3_Object_4_Material_4">
+            <instance_effect url="#Joint_3_Object_4_Material_4-effect" />
+        </material>
+        <material id="Joint_3_Object_5_Material_5" name="Joint_3_Object_5_Material_5">
+            <instance_effect url="#Joint_3_Object_5_Material_5-effect" />
+        </material>
+        <material id="Joint_3_Object_6_Material_6" name="Joint_3_Object_6_Material_6">
+            <instance_effect url="#Joint_3_Object_6_Material_6-effect" />
+        </material>
+        <material id="Joint_3_Object_7_Material_7" name="Joint_3_Object_7_Material_7">
+            <instance_effect url="#Joint_3_Object_7_Material_7-effect" />
+        </material>
+        <material id="Joint_3_Object_8_Material_8" name="Joint_3_Object_8_Material_8">
+            <instance_effect url="#Joint_3_Object_8_Material_8-effect" />
+        </material>
+        <material id="Joint_3_Object_9_Material_9" name="Joint_3_Object_9_Material_9">
+            <instance_effect url="#Joint_3_Object_9_Material_9-effect" />
+        </material>
+        <material id="Joint_4_Object_0_Material_0" name="Joint_4_Object_0_Material_0">
+            <instance_effect url="#Joint_4_Object_0_Material_0-effect" />
+        </material>
+        <material id="Joint_4_Object_1_Material_1" name="Joint_4_Object_1_Material_1">
+            <instance_effect url="#Joint_4_Object_1_Material_1-effect" />
+        </material>
+        <material id="Joint_5_Object_0_Material_0" name="Joint_5_Object_0_Material_0">
+            <instance_effect url="#Joint_5_Object_0_Material_0-effect" />
+        </material>
+        <material id="Joint_5_Object_1_Material_1" name="Joint_5_Object_1_Material_1">
+            <instance_effect url="#Joint_5_Object_1_Material_1-effect" />
+        </material>
+        <material id="Joint_6_Object_0_Material_0" name="Joint_6_Object_0_Material_0">
+            <instance_effect url="#Joint_6_Object_0_Material_0-effect" />
+        </material>
+        <material id="Joint_7_Object_0_Material_0" name="Joint_7_Object_0_Material_0">
+            <instance_effect url="#Joint_7_Object_0_Material_0-effect" />
+        </material>
+    </library_materials>
+    <library_effects>
+        <effect id="Joint_3_Object_0_Material_0-effect" name="Joint_3_Object_0_Material_0">
+            <profile_COMMON>
+                <newparam sid="Texture_0_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_0_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_0_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_0_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_0_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_1_Material_1-effect" name="Joint_3_Object_1_Material_1">
+            <profile_COMMON>
+                <newparam sid="Texture_1_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_1_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_1_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_1_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_1_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_2_Material_2-effect" name="Joint_3_Object_2_Material_2">
+            <profile_COMMON>
+                <newparam sid="Texture_2_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_2_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_2_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_2_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_2_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_3_Material_3-effect" name="Joint_3_Object_3_Material_3">
+            <profile_COMMON>
+                <newparam sid="Texture_3_CI4_RGB5A3-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_3_CI4_RGB5A3-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_3_CI4_RGB5A3-image_sampler">
+                    <sampler2D>
+                        <source>Texture_3_CI4_RGB5A3-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.5019608 0.5019608 0.5019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">1 1 1 1</color>
+                            <texture texture="Texture_3_CI4_RGB5A3-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">1 1 1 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_4_Material_4-effect" name="Joint_3_Object_4_Material_4">
+            <profile_COMMON>
+                <newparam sid="Texture_4_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_4_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_4_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_4_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_4_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_5_Material_5-effect" name="Joint_3_Object_5_Material_5">
+            <profile_COMMON>
+                <newparam sid="Texture_5_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_5_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_5_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_5_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_5_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_6_Material_6-effect" name="Joint_3_Object_6_Material_6">
+            <profile_COMMON>
+                <newparam sid="Texture_6_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_6_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_6_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_6_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_6_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_7_Material_7-effect" name="Joint_3_Object_7_Material_7">
+            <profile_COMMON>
+                <newparam sid="Texture_7_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_7_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_7_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_7_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_7_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_8_Material_8-effect" name="Joint_3_Object_8_Material_8">
+            <profile_COMMON>
+                <newparam sid="Texture_8_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_8_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_8_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_8_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_8_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_3_Object_9_Material_9-effect" name="Joint_3_Object_9_Material_9">
+            <profile_COMMON>
+                <newparam sid="Texture_9_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_9_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_9_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_9_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_9_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_4_Object_0_Material_0-effect" name="Joint_4_Object_0_Material_0">
+            <profile_COMMON>
+                <newparam sid="Texture_10_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_10_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_10_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_10_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_10_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_4_Object_1_Material_1-effect" name="Joint_4_Object_1_Material_1">
+            <profile_COMMON>
+                <newparam sid="Texture_11_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_11_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_11_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_11_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_11_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_5_Object_0_Material_0-effect" name="Joint_5_Object_0_Material_0">
+            <profile_COMMON>
+                <newparam sid="Texture_12_CI8_RGB565-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_12_CI8_RGB565-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_12_CI8_RGB565-image_sampler">
+                    <sampler2D>
+                        <source>Texture_12_CI8_RGB565-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_12_CI8_RGB565-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_5_Object_1_Material_1-effect" name="Joint_5_Object_1_Material_1">
+            <profile_COMMON>
+                <newparam sid="Texture_13_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_13_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_13_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_13_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_13_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_6_Object_0_Material_0-effect" name="Joint_6_Object_0_Material_0">
+            <profile_COMMON>
+                <newparam sid="Texture_14_I4-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_14_I4-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_14_I4-image_sampler">
+                    <sampler2D>
+                        <source>Texture_14_I4-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.5019608 0.5019608 0.5019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">1 1 1 1</color>
+                            <texture texture="Texture_14_I4-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">1 1 1 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">0.999</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="Joint_7_Object_0_Material_0-effect" name="Joint_7_Object_0_Material_0">
+            <profile_COMMON>
+                <newparam sid="Texture_15_CMP-image_surface">
+                    <surface type="2D">
+                        <init_from>Texture_15_CMP-image</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Texture_15_CMP-image_sampler">
+                    <sampler2D>
+                        <source>Texture_15_CMP-image_surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="standard">
+                    <phong>
+                        <emission>
+                            <color sid="emission">0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color sid="ambient">0.7019608 0.7019608 0.7019608 1</color>
+                        </ambient>
+                        <diffuse>
+                            <color sid="diffuse">0.7019608 0.7019608 0.7019608 1</color>
+                            <texture texture="Texture_15_CMP-image_sampler" texcoord="CHANNEL0" />
+                        </diffuse>
+                        <specular>
+                            <color sid="specular">0.2980392 0.2980392 0.2980392 1</color>
+                        </specular>
+                        <reflective>
+                            <color sid="reflective">1 1 1 1</color>
+                        </reflective>
+                        <shininess>
+                            <float sid="shininess">50</float>
+                        </shininess>
+                        <reflectivity>
+                            <float sid="reflectivity">1</float>
+                        </reflectivity>
+                        <transparency>
+                            <float sid="transparency">1</float>
+                        </transparency>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+    </library_effects>
+    <library_geometries>
+        <geometry id="Joint_3_Object_0_SINGLE-geometry" name="Joint_3_Object_0_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_0_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_0_SINGLE-geometry-POSITION-array" count="144">-0.328125 0.688125 1.908125 -0.328125 1.20375 1.908125 0.328125 1.20375 1.908125 0.328125 0.688125 1.908125 -0.328125 1.20375 -0.8887503 0.328125 1.20375 -0.8887503 0.328125 1.20375 1.908125 -0.328125 1.20375 1.908125 -0.328125 0.45375 -0.2793753 -0.328125 -1.7025 -0.1700003 -0.328125 -0.936875 -0.8887503 -0.328125 0.531875 0.7674997 -0.328125 0.688125 0.9706247 -0.328125 0.6725 -0.3262503 -0.328125 1.031875 -0.8575003 -0.328125 1.20375 -0.8887503 -0.328125 1.20375 1.908125 -0.328125 0.688125 1.908125 0.328125 0.531875 0.7674997 0.328125 -0.936875 -0.8887503 0.328125 -1.7025 -0.1700003 0.328125 0.45375 -0.2793753 0.328125 0.6725 -0.3262503 0.328125 1.031875 -0.8575003 0.328125 1.20375 -0.8887503 0.328125 0.688125 0.9706247 0.328125 0.688125 1.908125 0.328125 1.20375 1.908125 -0.328125 1.031875 -0.8575003 0.328125 1.20375 -0.8887503 -0.328125 1.20375 -0.8887503 0.328125 1.031875 -0.8575003 -0.328125 0.6725 -0.3262503 0.328125 0.6725 -0.3262503 -0.328125 0.45375 -0.2793753 0.328125 0.45375 -0.2793753 -0.328125 -0.936875 -0.8887503 0.328125 -0.936875 -0.8887503 -0.328125 -1.7025 -0.1700003 0.328125 -1.7025 -0.1700003 0.328125 0.688125 0.9706247 -0.328125 0.688125 1.908125 0.328125 0.688125 1.908125 -0.328125 0.688125 0.9706247 0.328125 0.531875 0.7674997 -0.328125 0.531875 0.7674997 0.328125 -1.7025 -0.1700003 -0.328125 -1.7025 -0.1700003</float_array>
+                    <technique_common>
+                        <accessor count="48" offset="0" source="Joint_3_Object_0_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_0_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_0_SINGLE-geometry-NORMAL-array" count="42">0 0 1 0 1 0 -1 0 0 1 0 0 0 -0.5510615 -0.8344646 0 -0.1871121 -0.9823385 0 -0.561883 -0.8272167 0 0.1087266 -0.9940717 0 -0.172001 -0.9850968 0 -0.6834243 -0.7300214 0 -0.9502295 0.3115507 0 -1 0 0 -0.6074501 0.7943578 0 -0.390149 0.9207517</float_array>
+                    <technique_common>
+                        <accessor count="14" offset="0" source="Joint_3_Object_0_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_0_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_0_SINGLE-geometry-TEXCOORD-array" count="20">1 0.828125 1 1 0 1 0.21875 0.75 0.25 0 0 0.265625 0.59375 0.765625 0.65625 0.828125 0.203125 0.8125 0.015625 0.9375</float_array>
+                    <technique_common>
+                        <accessor count="10" offset="0" source="Joint_3_Object_0_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_0_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_0_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="36" material="Joint_3_Object_0_Material_0">
+                    <input semantic="VERTEX" source="#Joint_3_Object_0_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_0_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_0_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 1 1 0 1 2 0 1 0 0 0 3 0 0 4 1 2 6 1 1 5 1 2 6 1 1 4 1 2 7 1 1 8 2 3 10 2 5 9 2 4 8 2 3 9 2 4 11 2 6 8 2 3 11 2 6 12 2 7 13 2 8 8 2 3 12 2 7 14 2 9 13 2 8 12 2 7 15 2 2 14 2 9 12 2 7 16 2 1 15 2 2 12 2 7 16 2 1 12 2 7 17 2 0 18 3 6 20 3 4 19 3 5 18 3 6 19 3 5 21 3 3 18 3 6 21 3 3 22 3 8 18 3 6 22 3 8 23 3 9 18 3 6 23 3 9 24 3 2 25 3 7 18 3 6 24 3 2 26 3 0 25 3 7 24 3 2 26 3 0 24 3 2 27 3 1 28 4 9 30 5 2 29 5 2 28 4 9 29 5 2 31 4 9 32 6 8 28 4 9 31 4 9 32 6 8 31 4 9 33 6 8 34 7 3 32 6 8 33 6 8 34 7 3 33 6 8 35 7 3 36 8 5 34 7 3 35 7 3 36 8 5 35 7 3 37 8 5 38 9 4 36 8 5 37 8 5 38 9 4 37 8 5 39 9 4 40 10 7 42 11 0 41 11 0 40 10 7 41 11 0 43 10 7 44 12 6 40 10 7 43 10 7 44 12 6 43 10 7 45 12 6 46 13 4 44 12 6 45 12 6 46 13 4 45 12 6 47 13 4</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_1_SINGLE-geometry" name="Joint_3_Object_1_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_1_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_1_SINGLE-geometry-POSITION-array" count="78">-0.421875 0.9225 1.908125 0.421875 0.9225 1.908125 0.421875 0.9225 3.564375 -0.421875 0.9225 3.564375 0.421875 0.9225 3.564375 0.421875 -0.01499999 3.564375 -0.421875 -0.01499999 3.564375 -0.421875 0.9225 3.564375 -0.421875 0.9225 1.908125 -0.421875 -0.01499999 2.501875 -0.421875 0.39125 1.908125 -0.421875 0.9225 3.564375 -0.421875 -0.01499999 3.564375 0.421875 0.9225 1.908125 0.421875 -0.01499999 3.564375 0.421875 0.9225 3.564375 0.421875 0.39125 1.908125 0.421875 -0.01499999 2.501875 -0.421875 0.39125 1.908125 0.421875 0.9225 1.908125 -0.421875 0.9225 1.908125 0.421875 0.39125 1.908125 -0.421875 -0.01499999 2.501875 0.421875 -0.01499999 2.501875 -0.421875 -0.01499999 3.564375 0.421875 -0.01499999 3.564375</float_array>
+                    <technique_common>
+                        <accessor count="26" offset="0" source="Joint_3_Object_1_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_1_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_1_SINGLE-geometry-NORMAL-array" count="24">0 1 0 0 0 1 -1 0 0 1 0 0 0 -0.4722214 -0.88148 0 0 -1 0 -0.9547581 -0.2973837 0 -1 0</float_array>
+                    <technique_common>
+                        <accessor count="8" offset="0" source="Joint_3_Object_1_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_1_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_1_SINGLE-geometry-TEXCOORD-array" count="10">0 1 1 1 1 0 0.359375 0 0 0.421875</float_array>
+                    <technique_common>
+                        <accessor count="5" offset="0" source="Joint_3_Object_1_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_1_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_1_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="16" material="Joint_3_Object_1_Material_1">
+                    <input semantic="VERTEX" source="#Joint_3_Object_1_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_1_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_1_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 1 1 0 0 2 0 1 0 0 0 3 0 1 4 1 1 6 1 2 5 1 2 6 1 2 4 1 1 7 1 1 8 2 0 10 2 4 9 2 3 11 2 1 8 2 0 9 2 3 11 2 1 9 2 3 12 2 2 13 3 0 15 3 1 14 3 2 16 3 4 13 3 0 14 3 2 16 3 4 14 3 2 17 3 3 18 4 4 20 5 0 19 5 0 18 4 4 19 5 0 21 4 4 22 6 3 18 4 4 21 4 4 22 6 3 21 4 4 23 6 3 24 7 2 22 6 3 23 6 3 24 7 2 23 6 3 25 7 2</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_2_SINGLE-geometry" name="Joint_3_Object_2_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_2_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_2_SINGLE-geometry-POSITION-array" count="126">-0.125 0.281875 0.7518747 -0.125 0.09437501 0.5799997 -0.125 0.39125 0.7206247 -0.125 0.14125 0.6737497 -0.125 -0.3275 1.705 -0.125 -0.09312499 1.595625 -0.125 -0.17125 1.7675 -0.125 0.125625 2.126875 -0.125 0.2975 2.064375 -0.125 0.125625 2.29875 0.125 0.2975 2.064375 0.125 0.125625 2.126875 0.125 0.125625 2.29875 0.125 -0.17125 1.7675 0.125 -0.09312499 1.595625 0.125 -0.3275 1.705 0.125 0.14125 0.6737497 0.125 0.281875 0.7518747 0.125 0.39125 0.7206247 0.125 0.09437501 0.5799997 0.125 0.14125 0.6737497 -0.125 -0.3275 1.705 0.125 -0.3275 1.705 -0.125 0.14125 0.6737497 0.125 0.09437501 0.5799997 -0.125 0.09437501 0.5799997 0.125 0.125625 2.126875 -0.125 0.125625 2.29875 0.125 0.125625 2.29875 -0.125 0.125625 2.126875 0.125 -0.17125 1.7675 -0.125 -0.17125 1.7675 0.125 -0.3275 1.705 -0.125 -0.3275 1.705 -0.125 0.2975 2.064375 0.125 -0.09312499 1.595625 0.125 0.2975 2.064375 -0.125 -0.09312499 1.595625 -0.125 0.281875 0.7518747 0.125 0.281875 0.7518747 -0.125 0.39125 0.7206247 0.125 0.39125 0.7206247</float_array>
+                    <technique_common>
+                        <accessor count="42" offset="0" source="Joint_3_Object_2_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_2_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_2_SINGLE-geometry-NORMAL-array" count="39">-1 0 0 1 0 0 0 -0.9998779 0.01562309 0 -0.9125093 -0.4090559 0 -0.9065821 0.4220296 0 -0.9388763 0.3442546 0 -1 0 0 -0.6074501 0.7943578 0 -0.4090559 0.9125093 0 0.7808688 -0.6246951 0 0.9920337 -0.1259725 0 0.6750134 0.7378054 0 0.3115507 0.9502295</float_array>
+                    <technique_common>
+                        <accessor count="13" offset="0" source="Joint_3_Object_2_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_2_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_2_SINGLE-geometry-TEXCOORD-array" count="20">0.046875 0.328125 0 0 0 0.4375 0.046875 0.109375 0.765625 0.109375 0.640625 0.328125 0.765625 0.328125 0.890625 0.84375 0.8125 1 1 0.9375</float_array>
+                    <technique_common>
+                        <accessor count="10" offset="0" source="Joint_3_Object_2_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_2_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_2_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="32" material="Joint_3_Object_2_Material_2">
+                    <input semantic="VERTEX" source="#Joint_3_Object_2_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_2_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_2_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 0 0 0 1 0 1 3 0 3 0 0 0 3 0 3 4 0 4 5 0 5 0 0 0 4 0 4 5 0 5 4 0 4 6 0 6 5 0 5 6 0 6 7 0 7 8 0 8 5 0 5 7 0 7 8 0 8 7 0 7 9 0 9 10 1 8 12 1 9 11 1 7 10 1 8 11 1 7 13 1 6 14 1 5 10 1 8 13 1 6 14 1 5 13 1 6 15 1 4 14 1 5 15 1 4 16 1 3 17 1 0 14 1 5 16 1 3 18 1 2 17 1 0 16 1 3 18 1 2 16 1 3 19 1 1 20 2 3 22 3 4 21 3 4 20 2 3 21 3 4 23 2 3 24 4 1 20 2 3 23 2 3 24 4 1 23 2 3 25 4 1 26 5 7 28 6 9 27 6 9 26 5 7 27 6 9 29 5 7 30 7 6 26 5 7 29 5 7 30 7 6 29 5 7 31 7 6 32 8 4 30 7 6 31 7 6 32 8 4 31 7 6 33 8 4 34 9 8 36 9 8 35 10 5 37 10 5 34 9 8 35 10 5 38 11 0 37 10 5 35 10 5 38 11 0 35 10 5 39 11 0 40 12 2 38 11 0 39 11 0 40 12 2 39 11 0 41 12 2</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_3_SINGLE-geometry" name="Joint_3_Object_3_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_3_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_3_SINGLE-geometry-POSITION-array" count="18">-0.21875 1.51625 -0.1231253 0 1.750625 1.095625 -0.21875 1.51625 1.095625 0 1.750625 -0.1231253 0.21875 1.51625 1.095625 0.21875 1.51625 -0.1231253</float_array>
+                    <technique_common>
+                        <accessor count="6" offset="0" source="Joint_3_Object_3_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_3_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_3_SINGLE-geometry-NORMAL-array" count="3">1 0 0</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="Joint_3_Object_3_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_3_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_3_SINGLE-geometry-TEXCOORD-array" count="8">0 0 1 1 1 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="4" offset="0" source="Joint_3_Object_3_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_3_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_3_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="4" material="Joint_3_Object_3_Material_3">
+                    <input semantic="VERTEX" source="#Joint_3_Object_3_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_3_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_3_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 3 0 3 0 0 0 1 0 1 3 0 3 1 0 1 4 0 2 5 0 0 3 0 3 4 0 2</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_4_SINGLE-geometry" name="Joint_3_Object_4_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_4_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_4_SINGLE-geometry-POSITION-array" count="54">-0.328125 1.063125 0.8924997 -0.4375 1.063125 0.4706247 -0.328125 1.063125 0.07999969 0.328125 1.063125 0.07999969 0.4375 1.063125 0.4706247 0.328125 1.063125 0.8924997 -0.4375 1.063125 0.4706247 -0.328125 -0.936875 -0.8106253 -0.328125 1.063125 0.07999969 -0.4375 -1.061875 -0.4512503 -0.328125 -1.54625 -0.2168753 -0.328125 1.063125 0.8924997 0.4375 1.063125 0.4706247 0.328125 -1.54625 -0.2168753 0.328125 1.063125 0.8924997 0.4375 -1.061875 -0.4512503 0.328125 -0.936875 -0.8106253 0.328125 1.063125 0.07999969</float_array>
+                    <technique_common>
+                        <accessor count="18" offset="0" source="Joint_3_Object_4_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_4_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_4_SINGLE-geometry-NORMAL-array" count="39">0 1 0 -0.9998779 0 -0.01562309 -0.9345386 -0.1401808 -0.3270885 -0.9613753 0.1103218 -0.252164 -0.9822192 -0.1247262 -0.140317 -0.9653386 -0.2491197 -0.07784989 -0.9676874 -0.09364717 0.2341179 0.9998779 0 -0.01562309 0.9653386 -0.2491197 -0.07784989 0.9676874 -0.09364717 0.2341179 0.9822192 -0.1247262 -0.140317 0.9345386 -0.1401808 -0.3270885 0.9613753 0.1103218 -0.252164</float_array>
+                    <technique_common>
+                        <accessor count="13" offset="0" source="Joint_3_Object_4_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_4_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_4_SINGLE-geometry-TEXCOORD-array" count="12">1 1 0.5 0.9375 0.03125 0.890625 0 0.109375 0.484375 0.125 1 0</float_array>
+                    <technique_common>
+                        <accessor count="6" offset="0" source="Joint_3_Object_4_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_4_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_4_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="12" material="Joint_3_Object_4_Material_4">
+                    <input semantic="VERTEX" source="#Joint_3_Object_4_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_4_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_4_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 3 0 2 5 0 0 4 0 1 6 1 1 8 3 2 7 2 3 9 4 4 6 1 1 7 2 3 9 4 4 7 2 3 10 5 5 9 4 4 10 5 5 11 6 0 6 1 1 9 4 4 11 6 0 12 7 1 14 9 0 13 8 5 15 10 4 12 7 1 13 8 5 15 10 4 13 8 5 16 11 3 15 10 4 16 11 3 17 12 2 12 7 1 15 10 4 17 12 2</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_5_SINGLE-geometry" name="Joint_3_Object_5_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_5_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_5_SINGLE-geometry-POSITION-array" count="102">0.140625 1.6725 -0.4043753 0.328125 1.51625 -0.1231253 0.140625 1.750625 -0.1231253 0.328125 1.485 -0.2950003 0.140625 1.469375 -0.6075003 0.328125 1.36 -0.4043753 0.140625 1.20375 -0.6856253 0.328125 1.20375 -0.4512503 -0.140625 1.6725 -0.4043753 0.140625 1.750625 -0.1231253 -0.140625 1.750625 -0.1231253 0.140625 1.6725 -0.4043753 -0.140625 1.469375 -0.6075003 0.140625 1.469375 -0.6075003 -0.140625 1.20375 -0.6856253 0.140625 1.20375 -0.6856253 -0.328125 1.485 -0.2950003 -0.140625 1.750625 -0.1231253 -0.328125 1.51625 -0.1231253 -0.140625 1.6725 -0.4043753 -0.328125 1.36 -0.4043753 -0.140625 1.469375 -0.6075003 -0.328125 1.20375 -0.4512503 -0.140625 1.20375 -0.6856253 -0.328125 1.36 -0.4043753 -0.328125 1.20375 -0.1231253 -0.328125 1.20375 -0.4512503 -0.328125 1.485 -0.2950003 -0.328125 1.51625 -0.1231253 0.328125 1.485 -0.2950003 0.328125 1.20375 -0.1231253 0.328125 1.51625 -0.1231253 0.328125 1.36 -0.4043753 0.328125 1.20375 -0.4512503</float_array>
+                    <technique_common>
+                        <accessor count="34" offset="0" source="Joint_3_Object_5_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_5_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_5_SINGLE-geometry-NORMAL-array" count="42">0.7617297 0.5596381 -0.3264556 0.7490861 0.6398444 -0.1716656 0.7617297 0.3264556 -0.5596381 0.7490861 0.1716656 -0.6398444 0 0.8643484 -0.5028936 0 0.9644039 -0.2644334 0 0.5028936 -0.8643484 0 0.2644334 -0.9644039 -0.7617297 0.5596381 -0.3264556 -0.7490861 0.6398444 -0.1716656 -0.7617297 0.3264556 -0.5596381 -0.7490861 0.1716656 -0.6398444 -1 0 0 1 0 0</float_array>
+                    <technique_common>
+                        <accessor count="14" offset="0" source="Joint_3_Object_5_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_5_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_5_SINGLE-geometry-TEXCOORD-array" count="32">0.703125 0.859375 1 0.578125 0.703125 1 1 0.5 0.703125 0.5 1 0.296875 0.703125 0 1 0 0.296875 0.859375 0.296875 1 0.296875 0.5 0.296875 0 0 0.5 0 0.578125 0 0.296875 0 0</float_array>
+                    <technique_common>
+                        <accessor count="16" offset="0" source="Joint_3_Object_5_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_5_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_5_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="24" material="Joint_3_Object_5_Material_5">
+                    <input semantic="VERTEX" source="#Joint_3_Object_5_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_5_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_5_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 1 2 1 1 1 0 0 0 1 1 1 3 0 3 4 2 4 0 0 0 3 0 3 4 2 4 3 0 3 5 2 5 6 3 6 4 2 4 5 2 5 6 3 6 5 2 5 7 3 7 8 4 8 10 5 9 9 5 2 8 4 8 9 5 2 11 4 0 12 6 10 8 4 8 11 4 0 12 6 10 11 4 0 13 6 4 14 7 11 12 6 10 13 6 4 14 7 11 13 6 4 15 7 6 16 8 12 18 9 13 17 9 9 16 8 12 17 9 9 19 8 8 20 10 14 16 8 12 19 8 8 20 10 14 19 8 8 21 10 10 22 11 15 20 10 14 21 10 10 22 11 15 21 10 10 23 11 11 24 12 14 26 12 15 25 12 15 27 12 12 24 12 14 25 12 15 27 12 12 25 12 15 28 12 13 29 13 3 31 13 1 30 13 7 32 13 5 29 13 3 30 13 7 32 13 5 30 13 7 33 13 7</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_6_SINGLE-geometry" name="Joint_3_Object_6_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_6_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_6_SINGLE-geometry-POSITION-array" count="36">-0.28125 0.9225 1.908125 -0.28125 1.094375 1.908125 -0.28125 1.094375 3.564375 -0.28125 0.9225 3.564375 -0.28125 0.9225 3.564375 -0.28125 1.094375 3.564375 0.28125 1.094375 3.564375 0.28125 0.9225 3.564375 0.28125 0.9225 3.564375 0.28125 1.094375 3.564375 0.28125 1.094375 1.908125 0.28125 0.9225 1.908125</float_array>
+                    <technique_common>
+                        <accessor count="12" offset="0" source="Joint_3_Object_6_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_6_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_6_SINGLE-geometry-NORMAL-array" count="9">-1 0 0 0 0 1 1 0 0</float_array>
+                    <technique_common>
+                        <accessor count="3" offset="0" source="Joint_3_Object_6_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_6_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_6_SINGLE-geometry-TEXCOORD-array" count="8">0 0 0 1 1 1 1 0</float_array>
+                    <technique_common>
+                        <accessor count="4" offset="0" source="Joint_3_Object_6_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_6_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_6_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="6" material="Joint_3_Object_6_Material_6">
+                    <input semantic="VERTEX" source="#Joint_3_Object_6_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_6_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_6_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 2 0 2 0 0 0 3 0 3 4 1 3 6 1 2 5 1 2 6 1 2 4 1 3 7 1 3 8 2 3 10 2 1 9 2 2 10 2 1 8 2 3 11 2 0</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_7_SINGLE-geometry" name="Joint_3_Object_7_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_7_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_7_SINGLE-geometry-POSITION-array" count="42">-0.234375 -1.64 -0.2168753 -0.234375 -1.374375 -0.8575003 -0.234375 -0.98375 -0.8418753 0.234375 -0.98375 -0.8418753 0.234375 -1.374375 -0.8575003 0.234375 -1.64 -0.2168753 0.234375 -1.374375 -0.8575003 -0.234375 -1.374375 -0.8575003 -0.234375 -1.64 -0.2168753 0.234375 -1.64 -0.2168753 0.234375 -1.374375 -0.8575003 0.234375 -0.98375 -0.8418753 -0.234375 -0.98375 -0.8418753 -0.234375 -1.374375 -0.8575003</float_array>
+                    <technique_common>
+                        <accessor count="14" offset="0" source="Joint_3_Object_7_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_7_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_7_SINGLE-geometry-NORMAL-array" count="12">-1 0 0 1 0 0 0 -0.9150862 -0.4032583 0 0 -1</float_array>
+                    <technique_common>
+                        <accessor count="4" offset="0" source="Joint_3_Object_7_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_7_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_7_SINGLE-geometry-TEXCOORD-array" count="6">1 1 0.3125 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="3" offset="0" source="Joint_3_Object_7_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_7_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_7_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="6" material="Joint_3_Object_7_Material_7">
+                    <input semantic="VERTEX" source="#Joint_3_Object_7_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_7_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_7_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 3 1 2 5 1 0 4 1 1 6 2 1 8 2 0 7 2 1 8 2 0 6 2 1 9 2 0 10 3 1 12 3 2 11 3 2 12 3 2 10 3 1 13 3 1</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_8_SINGLE-geometry" name="Joint_3_Object_8_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_8_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_8_SINGLE-geometry-POSITION-array" count="150">-0.328125 1.51625 1.11125 0.328125 1.51625 1.11125 0.140625 1.750625 1.11125 -0.140625 1.750625 1.11125 0.328125 1.51625 1.11125 0.328125 1.51625 4.92375 0.140625 1.750625 4.92375 0.140625 1.750625 1.11125 0.140625 1.750625 1.11125 0.140625 1.750625 4.92375 -0.140625 1.750625 4.92375 -0.140625 1.750625 1.11125 -0.140625 1.750625 1.11125 -0.140625 1.750625 4.92375 -0.328125 1.51625 4.92375 -0.328125 1.51625 1.11125 -0.328125 1.51625 1.11125 -0.328125 1.51625 4.92375 -0.328125 1.20375 4.92375 -0.328125 1.20375 1.11125 -0.140625 0.969375 4.314375 0.140625 0.969375 4.314375 0.140625 0.969375 1.11125 -0.140625 0.969375 1.11125 0.328125 1.20375 1.11125 0.328125 1.20375 4.92375 0.328125 1.51625 4.92375 0.328125 1.51625 1.11125 0.28125 1.14125 4.92375 0.140625 0.969375 4.314375 -0.140625 0.969375 4.314375 -0.28125 1.14125 4.92375 -0.140625 1.750625 4.92375 -0.328125 1.20375 4.92375 -0.328125 1.51625 4.92375 -0.28125 1.14125 4.92375 0.140625 1.750625 4.92375 0.28125 1.14125 4.92375 0.328125 1.51625 4.92375 0.328125 1.20375 4.92375 -0.140625 0.969375 1.11125 -0.28125 1.14125 4.92375 -0.140625 0.969375 4.314375 -0.328125 1.20375 1.11125 -0.328125 1.20375 4.92375 0.328125 1.20375 4.92375 0.140625 0.969375 4.314375 0.28125 1.14125 4.92375 0.328125 1.20375 1.11125 0.140625 0.969375 1.11125</float_array>
+                    <technique_common>
+                        <accessor count="50" offset="0" source="Joint_3_Object_8_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_8_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_8_SINGLE-geometry-NORMAL-array" count="33">0 0 -1 0.7669368 0.6417227 0 0 1 0 -0.7669368 0.6417227 0 -1 0 0 0 -1 0 1 0 0 0 -0.9644039 0.2644334 0 0 1 -0.7669368 -0.6417227 0 0.7669368 -0.6417227 0</float_array>
+                    <technique_common>
+                        <accessor count="11" offset="0" source="Joint_3_Object_8_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_8_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_8_SINGLE-geometry-TEXCOORD-array" count="18">0 0.703125 0 1 1 0.703125 1 1 1 0.296875 0 0.296875 0.84375 0 0 0 1 0.21875</float_array>
+                    <technique_common>
+                        <accessor count="9" offset="0" source="Joint_3_Object_8_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_8_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_8_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="28" material="Joint_3_Object_8_Material_8">
+                    <input semantic="VERTEX" source="#Joint_3_Object_8_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_8_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_8_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 1 1 0 0 2 0 1 0 0 0 3 0 1 4 1 0 6 1 3 5 1 2 6 1 3 4 1 0 7 1 1 8 2 1 10 2 3 9 2 3 10 2 3 8 2 1 11 2 1 12 3 1 14 3 2 13 3 3 14 3 2 12 3 1 15 3 0 16 4 0 18 4 4 17 4 2 18 4 4 16 4 0 19 4 5 20 5 6 22 5 7 21 5 6 22 5 7 20 5 6 23 5 7 24 6 5 26 6 2 25 6 4 26 6 2 24 6 5 27 6 0 28 7 8 30 7 6 29 7 6 30 7 6 28 7 8 31 7 8 32 8 3 34 8 2 33 8 4 32 8 3 33 8 4 35 8 8 36 8 3 32 8 3 35 8 8 36 8 3 35 8 8 37 8 8 38 8 2 36 8 3 37 8 8 38 8 2 37 8 8 39 8 4 40 9 7 42 9 6 41 9 8 43 9 5 40 9 7 41 9 8 43 9 5 41 9 8 44 9 4 45 10 4 47 10 8 46 10 6 48 10 5 45 10 4 46 10 6 48 10 5 46 10 6 49 10 7</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_3_Object_9_SINGLE-geometry" name="Joint_3_Object_9_SINGLE">
+            <mesh>
+                <source id="Joint_3_Object_9_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_3_Object_9_SINGLE-geometry-POSITION-array" count="72">0.09375 1.219375 5.0175 0.21875 1.531875 5.0175 0.21875 1.36 5.0175 0.09375 1.6725 5.0175 -0.09375 1.219375 5.0175 -0.09375 1.6725 5.0175 -0.21875 1.36 5.0175 -0.21875 1.531875 5.0175 0.09375 1.6725 5.0175 0.109375 1.688125 4.92375 0.25 1.5475 4.92375 -0.09375 1.6725 5.0175 -0.109375 1.688125 4.92375 -0.21875 1.531875 5.0175 -0.25 1.5475 4.92375 -0.21875 1.36 5.0175 -0.25 1.344375 4.92375 -0.09375 1.219375 5.0175 -0.109375 1.20375 4.92375 0.09375 1.219375 5.0175 0.109375 1.20375 4.92375 0.21875 1.36 5.0175 0.25 1.344375 4.92375 0.21875 1.531875 5.0175</float_array>
+                    <technique_common>
+                        <accessor count="24" offset="0" source="Joint_3_Object_9_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_9_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_3_Object_9_SINGLE-geometry-NORMAL-array" count="27">0 0 1 0.3624858 0.882574 0.2994448 0.882574 0.3624858 0.2994448 -0.3624858 0.882574 0.2994448 -0.882574 0.3624858 0.2994448 -0.882574 -0.3624858 0.2994448 -0.3624858 -0.882574 0.2994448 0.3624858 -0.882574 0.2994448 0.882574 -0.3624858 0.2994448</float_array>
+                    <technique_common>
+                        <accessor count="9" offset="0" source="Joint_3_Object_9_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_9_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_3_Object_9_SINGLE-geometry-TEXCOORD-array" count="32">0.6875 0.046875 0.953125 0.6875 0.953125 0.3125 0.6875 0.953125 0.3125 0.046875 0.3125 0.953125 0.046875 0.3125 0.046875 0.6875 0.703125 1 1 0.703125 0.296875 1 0 0.703125 0 0.296875 0.296875 0 0.703125 0 1 0.296875</float_array>
+                    <technique_common>
+                        <accessor count="16" offset="0" source="Joint_3_Object_9_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_3_Object_9_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_3_Object_9_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="22" material="Joint_3_Object_9_Material_9">
+                    <input semantic="VERTEX" source="#Joint_3_Object_9_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_3_Object_9_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_3_Object_9_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 0 0 0 1 0 1 3 0 3 4 0 4 0 0 0 3 0 3 4 0 4 3 0 3 5 0 5 6 0 6 4 0 4 5 0 5 6 0 6 5 0 5 7 0 7 8 1 3 10 2 9 9 1 8 11 3 5 8 1 3 9 1 8 11 3 5 9 1 8 12 3 10 13 4 7 11 3 5 12 3 10 13 4 7 12 3 10 14 4 11 15 5 6 13 4 7 14 4 11 15 5 6 14 4 11 16 5 12 17 6 4 15 5 6 16 5 12 17 6 4 16 5 12 18 6 13 19 7 0 17 6 4 18 6 13 19 7 0 18 6 13 20 7 14 21 8 2 19 7 0 20 7 14 21 8 2 20 7 14 22 8 15 23 2 1 21 8 2 22 8 15 23 2 1 22 8 15 10 2 9 8 1 3 23 2 1 10 2 9</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_4_Object_0_SINGLE-geometry" name="Joint_4_Object_0_SINGLE">
+            <mesh>
+                <source id="Joint_4_Object_0_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_4_Object_0_SINGLE-geometry-POSITION-array" count="120">-0.53125 1.044375 3.275 0.53125 1.044375 3.275 0.53125 1.044375 4.68125 -0.53125 1.044375 4.68125 0.53125 0.56 2.634375 -0.53125 0.56 2.634375 -0.53125 -0.143125 2.634375 0.53125 -0.143125 2.634375 0.53125 -0.065 4.68125 -0.53125 1.044375 4.68125 0.53125 1.044375 4.68125 -0.53125 -0.065 4.68125 0.53125 -0.143125 4.540625 -0.53125 -0.143125 4.540625 0.53125 -0.143125 2.634375 -0.53125 -0.143125 2.634375 0.53125 1.044375 4.68125 0.53125 -0.143125 4.540625 0.53125 -0.065 4.68125 0.53125 1.044375 3.275 0.53125 0.81 3.275 0.53125 0.56 2.946875 0.53125 0.56 2.634375 0.53125 -0.143125 2.634375 -0.53125 0.56 2.634375 -0.53125 -0.143125 4.540625 -0.53125 -0.143125 2.634375 -0.53125 -0.065 4.68125 -0.53125 0.56 2.946875 -0.53125 0.81 3.275 -0.53125 1.044375 3.275 -0.53125 1.044375 4.68125 0.53125 0.56 2.946875 -0.53125 0.56 2.634375 0.53125 0.56 2.634375 -0.53125 0.56 2.946875 0.53125 0.81 3.275 -0.53125 0.81 3.275 0.53125 1.044375 3.275 -0.53125 1.044375 3.275</float_array>
+                    <technique_common>
+                        <accessor count="40" offset="0" source="Joint_4_Object_0_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_4_Object_0_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_4_Object_0_SINGLE-geometry-NORMAL-array" count="30">0 1 0 0 0 -1 0 -0.4843159 0.8748932 0 0 1 0 -0.9591147 0.2830175 0 -1 0 1 0 0 -1 0 0 0 0.9438584 -0.3303504 0 0.4347491 -0.9005516</float_array>
+                    <technique_common>
+                        <accessor count="10" offset="0" source="Joint_4_Object_0_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_4_Object_0_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_4_Object_0_SINGLE-geometry-TEXCOORD-array" count="16">0.3125 1 1 1 0 0.59375 0 0 1 0.078125 0.9375 0 0.3125 0.796875 0.15625 0.59375</float_array>
+                    <technique_common>
+                        <accessor count="8" offset="0" source="Joint_4_Object_0_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_4_Object_0_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_4_Object_0_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="28" material="Joint_4_Object_0_Material_0">
+                    <input semantic="VERTEX" source="#Joint_4_Object_0_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_4_Object_0_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_4_Object_0_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 1 1 0 0 2 0 1 0 0 0 3 0 1 4 1 2 6 1 3 5 1 2 6 1 3 4 1 2 7 1 3 8 2 4 10 3 1 9 3 1 8 2 4 9 3 1 11 2 4 12 4 5 8 2 4 11 2 4 12 4 5 11 2 4 13 4 5 14 5 3 12 4 5 13 4 5 14 5 3 13 4 5 15 5 3 16 6 1 18 6 4 17 6 5 19 6 0 16 6 1 17 6 5 20 6 6 19 6 0 17 6 5 21 6 7 20 6 6 17 6 5 22 6 2 21 6 7 17 6 5 22 6 2 17 6 5 23 6 3 24 7 2 26 7 3 25 7 5 24 7 2 25 7 5 27 7 4 28 7 7 24 7 2 27 7 4 29 7 6 28 7 7 27 7 4 30 7 0 29 7 6 27 7 4 30 7 0 27 7 4 31 7 1 32 8 7 34 0 2 33 0 2 32 8 7 33 0 2 35 8 7 36 9 6 32 8 7 35 8 7 36 9 6 35 8 7 37 9 6 38 1 0 36 9 6 37 9 6 38 1 0 37 9 6 39 1 0</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_4_Object_1_SINGLE-geometry" name="Joint_4_Object_1_SINGLE">
+            <mesh>
+                <source id="Joint_4_Object_1_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_4_Object_1_SINGLE-geometry-POSITION-array" count="72">0.140625 -0.002499998 4.759375 0.359375 0.4975 4.759375 0.359375 0.21625 4.759375 0.140625 0.71625 4.759375 -0.140625 -0.002499998 4.759375 -0.140625 0.71625 4.759375 -0.359375 0.21625 4.759375 -0.359375 0.4975 4.759375 0.140625 0.71625 4.759375 0.140625 0.71625 4.68125 0.359375 0.4975 4.68125 -0.140625 0.71625 4.759375 -0.140625 0.71625 4.68125 -0.359375 0.4975 4.759375 -0.359375 0.4975 4.68125 -0.359375 0.21625 4.759375 -0.359375 0.21625 4.68125 -0.140625 -0.002499998 4.759375 -0.140625 -0.002499998 4.68125 0.140625 -0.002499998 4.759375 0.140625 -0.002499998 4.68125 0.359375 0.21625 4.759375 0.359375 0.21625 4.68125 0.359375 0.4975 4.759375</float_array>
+                    <technique_common>
+                        <accessor count="24" offset="0" source="Joint_4_Object_1_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_4_Object_1_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_4_Object_1_SINGLE-geometry-NORMAL-array" count="27">0 0 1 0.3767981 0.9262954 0 0.9262954 0.3767981 0 -0.3767981 0.9262954 0 -0.9262954 0.3767981 0 -0.9262954 -0.3767981 0 -0.3767981 -0.9262954 0 0.3767981 -0.9262954 0 0.9262954 -0.3767981 0</float_array>
+                    <technique_common>
+                        <accessor count="9" offset="0" source="Joint_4_Object_1_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_4_Object_1_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_4_Object_1_SINGLE-geometry-TEXCOORD-array" count="16">0.6875 0.0625 0.9375 0.6875 0.9375 0.3125 0.6875 0.9375 0.3125 0.0625 0.3125 0.9375 0.0625 0.3125 0.0625 0.6875</float_array>
+                    <technique_common>
+                        <accessor count="8" offset="0" source="Joint_4_Object_1_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_4_Object_1_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_4_Object_1_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="22" material="Joint_4_Object_1_Material_1">
+                    <input semantic="VERTEX" source="#Joint_4_Object_1_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_4_Object_1_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_4_Object_1_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 0 0 0 1 0 1 3 0 3 4 0 4 0 0 0 3 0 3 4 0 4 3 0 3 5 0 5 6 0 6 4 0 4 5 0 5 6 0 6 5 0 5 7 0 7 8 1 3 10 2 1 9 1 3 11 3 5 8 1 3 9 1 3 11 3 5 9 1 3 12 3 5 13 4 7 11 3 5 12 3 5 13 4 7 12 3 5 14 4 7 15 5 6 13 4 7 14 4 7 15 5 6 14 4 7 16 5 6 17 6 4 15 5 6 16 5 6 17 6 4 16 5 6 18 6 4 19 7 0 17 6 4 18 6 4 19 7 0 18 6 4 20 7 0 21 8 2 19 7 0 20 7 0 21 8 2 20 7 0 22 8 2 23 2 1 21 8 2 22 8 2 23 2 1 22 8 2 10 2 1 8 1 3 23 2 1 10 2 1</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_5_Object_0_SINGLE-geometry" name="Joint_5_Object_0_SINGLE">
+            <mesh>
+                <source id="Joint_5_Object_0_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_5_Object_0_SINGLE-geometry-POSITION-array" count="363">-0.328125 1.51625 4.73625 -0.140625 1.750625 5.064375 -0.140625 1.750625 3.7675 0.46875 1.594375 -0.1231253 0.46875 1.125625 -0.1231253 0.46875 1.125625 4.205 0.140625 1.750625 3.7675 0.140625 1.750625 5.064375 0.328125 1.51625 4.73625 0 1.51625 1.095625 0.140625 1.750625 -0.1231253 -0.140625 1.750625 -0.1231253 0.140625 1.750625 3.7675 -0.140625 1.750625 3.7675 -0.140625 1.750625 5.064375 0.140625 1.750625 5.064375 0.46875 1.125625 4.205 0.46875 1.125625 -0.1231253 0.328125 1.125625 -0.1231253 0.328125 1.125625 4.205 -0.1875 1.906875 1.408125 -0.46875 1.594375 1.408125 -0.46875 1.594375 -0.1231253 -0.1875 1.906875 -0.1231253 -0.46875 1.125625 4.205 -0.328125 1.125625 4.205 -0.328125 1.125625 -0.1231253 -0.46875 1.125625 -0.1231253 0.1875 1.906875 1.408125 -0.1875 1.906875 1.408125 -0.1875 1.906875 -0.1231253 0.1875 1.906875 -0.1231253 -0.1875 1.906875 3.955 0.1875 1.906875 3.955 0.1875 1.906875 5.064375 -0.1875 1.906875 5.064375 0.46875 1.594375 1.408125 0.1875 1.906875 1.408125 0.1875 1.906875 -0.1231253 0.46875 1.594375 -0.1231253 -0.46875 1.51625 3.3925 -0.46875 1.51625 1.48625 0.46875 1.51625 1.48625 0.46875 1.51625 3.3925 -0.46875 1.594375 1.408125 0.46875 1.594375 1.408125 0.46875 1.51625 1.48625 -0.46875 1.51625 1.48625 -0.46875 1.594375 1.408125 -0.1875 1.906875 1.408125 0.1875 1.906875 1.408125 0.46875 1.594375 1.408125 -0.328125 1.51625 -0.1231253 -0.46875 1.125625 -0.1231253 -0.328125 1.125625 -0.1231253 -0.46875 1.594375 -0.1231253 -0.140625 1.750625 -0.1231253 -0.1875 1.906875 -0.1231253 0.140625 1.750625 -0.1231253 0.1875 1.906875 -0.1231253 0.328125 1.51625 -0.1231253 0.46875 1.594375 -0.1231253 0.328125 1.125625 -0.1231253 0.46875 1.125625 -0.1231253 0.140625 1.750625 5.064375 0.1875 1.906875 5.064375 0.328125 1.750625 5.064375 -0.1875 1.906875 5.064375 -0.140625 1.750625 5.064375 -0.328125 1.750625 5.064375 0.328125 1.51625 4.73625 0.46875 1.125625 4.205 0.328125 1.125625 4.205 0.46875 1.594375 4.83 0.140625 1.750625 5.064375 0.328125 1.750625 5.064375 -0.140625 1.750625 -0.1231253 -0.328125 1.125625 4.205 0 1.51625 1.095625 -0.328125 1.51625 -0.1231253 -0.328125 1.125625 -0.1231253 -0.46875 1.594375 4.83 -0.328125 1.125625 4.205 -0.46875 1.125625 4.205 -0.328125 1.51625 4.73625 -0.328125 1.750625 5.064375 -0.140625 1.750625 5.064375 0.328125 1.125625 -0.1231253 0 1.51625 1.095625 0.328125 1.125625 4.205 0.328125 1.51625 -0.1231253 0.140625 1.750625 -0.1231253 0.46875 1.594375 4.83 0.1875 1.906875 3.955 0.46875 1.594375 3.48625 0.328125 1.750625 5.064375 0.1875 1.906875 5.064375 -0.1875 1.906875 5.064375 -0.46875 1.594375 3.48625 -0.1875 1.906875 3.955 -0.328125 1.750625 5.064375 -0.46875 1.594375 4.83 0.46875 1.594375 3.48625 0.46875 1.594375 4.83 0.46875 1.51625 3.3925 0.46875 1.51625 1.48625 0.46875 1.594375 1.408125 -0.46875 1.51625 1.48625 -0.46875 1.594375 -0.1231253 -0.46875 1.594375 1.408125 -0.46875 1.125625 -0.1231253 -0.46875 1.125625 4.205 -0.46875 1.51625 3.3925 -0.46875 1.594375 3.48625 -0.46875 1.594375 4.83 -0.1875 1.906875 3.955 0.46875 1.594375 3.48625 0.1875 1.906875 3.955 -0.46875 1.594375 3.48625 0.46875 1.51625 3.3925 -0.46875 1.51625 3.3925</float_array>
+                    <technique_common>
+                        <accessor count="121" offset="0" source="Joint_5_Object_0_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_5_Object_0_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_5_Object_0_SINGLE-geometry-NORMAL-array" count="54">0.7669368 -0.6417227 0 1 0 0 -0.7669368 -0.6417227 0 0 -0.9823385 -0.1871121 0 -1 0 -0.7669368 0.6417227 0 0 1 0 0.7669368 0.6417227 0 0 0.7669368 0.6417227 0 0 1 0 0 -1 0 -0.8073911 0.5900166 0.8256093 -0.5607912 -0.06231013 -0.8256093 -0.5607912 -0.06231013 -1 0 0 0 0.8272167 -0.561883 0 0.8147908 -0.579755 0 0.8073911 -0.5900166</float_array>
+                    <technique_common>
+                        <accessor count="18" offset="0" source="Joint_5_Object_0_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_5_Object_0_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_5_Object_0_SINGLE-geometry-TEXCOORD-array" count="36">0.9375 0.5 1 0.796875 0.75 0.796875 0 0.578125 0 0 0.828125 0 0.234375 0.5 0 0.796875 0.296875 1 0.296875 0.578125 0 1 0.78125 1 1 1 0.671875 0.5 0.3125 0.5 0 0.5 0.953125 0.578125 0.703125 0.578125</float_array>
+                    <technique_common>
+                        <accessor count="18" offset="0" source="Joint_5_Object_0_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_5_Object_0_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_5_Object_0_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="73" material="Joint_5_Object_0_Material_0">
+                    <input semantic="VERTEX" source="#Joint_5_Object_0_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_5_Object_0_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_5_Object_0_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 3 1 3 5 1 5 4 1 4 6 2 2 8 2 0 7 2 1 9 3 6 11 3 7 10 3 7 12 4 2 14 4 1 13 4 2 14 4 1 12 4 2 15 4 1 16 4 5 18 4 4 17 4 4 18 4 4 16 4 5 19 4 5 20 5 8 22 5 3 21 5 9 22 5 3 20 5 8 23 5 10 24 4 5 26 4 4 25 4 5 26 4 4 24 4 5 27 4 4 28 6 8 30 6 10 29 6 8 30 6 10 28 6 8 31 6 10 32 6 11 34 6 12 33 6 11 34 6 12 32 6 11 35 6 12 36 7 9 38 7 10 37 7 8 38 7 10 36 7 9 39 7 3 40 6 13 42 6 14 41 6 14 42 6 14 40 6 13 43 6 13 44 8 9 46 8 14 45 8 9 46 8 14 44 8 9 47 8 14 48 9 9 50 9 8 49 9 8 50 9 8 48 9 9 51 9 9 52 10 15 54 10 4 53 10 4 52 10 15 53 10 4 55 10 3 56 10 7 52 10 15 55 10 3 56 10 7 55 10 3 57 10 10 58 10 7 56 10 7 57 10 10 58 10 7 57 10 10 59 10 10 60 10 15 58 10 7 59 10 10 60 10 15 59 10 10 61 10 3 62 10 4 60 10 15 61 10 3 62 10 4 61 10 3 63 10 4 64 9 1 66 9 1 65 9 12 64 9 1 65 9 12 67 9 12 68 9 1 64 9 1 67 9 12 68 9 1 67 9 12 69 9 1 70 11 0 72 11 5 71 11 5 70 11 0 71 11 5 73 11 16 74 11 1 70 11 0 73 11 16 74 11 1 73 11 16 75 11 1 76 12 7 78 12 6 77 12 5 79 12 15 76 12 7 77 12 5 79 12 15 77 12 5 80 12 4 81 11 16 83 11 5 82 11 5 81 11 16 82 11 5 84 11 0 85 11 1 81 11 16 84 11 0 85 11 1 84 11 0 86 11 1 87 13 4 89 13 5 88 13 6 90 13 15 87 13 4 88 13 6 90 13 15 88 13 6 91 13 7 92 7 16 94 7 17 93 7 11 95 7 1 92 7 16 93 7 11 95 7 1 93 7 11 96 7 12 97 5 12 99 5 11 98 5 17 100 5 1 97 5 12 98 5 17 100 5 1 98 5 17 101 5 16 102 1 17 103 1 16 5 1 5 104 1 13 102 1 17 5 1 5 105 1 14 104 1 13 5 1 5 105 1 14 5 1 5 3 1 3 106 1 9 105 1 14 3 1 3 107 14 14 109 14 9 108 14 3 107 14 14 108 14 3 110 14 4 107 14 14 110 14 4 111 14 5 112 14 13 107 14 14 111 14 5 113 14 17 112 14 13 111 14 5 113 14 17 111 14 5 114 14 16 115 15 11 117 15 11 116 16 17 118 16 17 115 15 11 116 16 17 118 16 17 116 16 17 119 17 13 120 17 13 118 16 17 119 17 13</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_5_Object_1_SINGLE-geometry" name="Joint_5_Object_1_SINGLE">
+            <mesh>
+                <source id="Joint_5_Object_1_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_5_Object_1_SINGLE-geometry-POSITION-array" count="150">0.15625 1.906875 0.2987497 0.15625 2.063125 0.2049997 0.15625 1.906875 -0.09187531 -0.15625 1.906875 -0.09187531 -0.15625 2.063125 0.2049997 -0.15625 1.906875 0.2987497 0.171875 2.000625 4.658125 0.171875 1.906875 4.54875 0.171875 1.906875 4.92375 0.171875 2.031875 4.92375 0.03125 1.906875 4.92375 0.03125 1.906875 4.54875 0.03125 2.000625 4.658125 0.03125 2.031875 4.92375 0.171875 2.031875 4.92375 0.171875 1.906875 4.92375 0.03125 1.906875 4.92375 0.03125 2.031875 4.92375 -0.03125 2.000625 4.658125 -0.03125 1.906875 4.54875 -0.03125 1.906875 4.92375 -0.03125 2.031875 4.92375 -0.171875 1.906875 4.92375 -0.171875 1.906875 4.54875 -0.171875 2.000625 4.658125 -0.171875 2.031875 4.92375 -0.03125 2.031875 4.92375 -0.03125 1.906875 4.92375 -0.171875 1.906875 4.92375 -0.171875 2.031875 4.92375 0.15625 1.906875 -0.09187531 0.15625 2.063125 0.2049997 -0.15625 2.063125 0.2049997 -0.15625 1.906875 -0.09187531 -0.15625 2.063125 0.2049997 0.15625 2.063125 0.2049997 0.15625 1.906875 0.2987497 -0.15625 1.906875 0.2987497 0.03125 2.000625 4.658125 0.171875 2.031875 4.92375 0.03125 2.031875 4.92375 0.171875 2.000625 4.658125 0.03125 1.906875 4.54875 0.171875 1.906875 4.54875 -0.171875 2.000625 4.658125 -0.03125 2.031875 4.92375 -0.171875 2.031875 4.92375 -0.03125 2.000625 4.658125 -0.171875 1.906875 4.54875 -0.03125 1.906875 4.54875</float_array>
+                    <technique_common>
+                        <accessor count="50" offset="0" source="Joint_5_Object_1_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_5_Object_1_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_5_Object_1_SINGLE-geometry-NORMAL-array" count="24">1 0 0 -1 0 0 0 0 1 0 0.891278 -0.4534573 0 0.5028936 0.8643484 0 0.9207517 -0.390149 0 0.9899495 -0.1414214 0 0.7808688 -0.6246951</float_array>
+                    <technique_common>
+                        <accessor count="8" offset="0" source="Joint_5_Object_1_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_5_Object_1_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_5_Object_1_SINGLE-geometry-TEXCOORD-array" count="12">1 0 1 1 0 0 0 1 1 0.703125 0 0.703125</float_array>
+                    <technique_common>
+                        <accessor count="6" offset="0" source="Joint_5_Object_1_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_5_Object_1_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_5_Object_1_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="26" material="Joint_5_Object_1_Material_1">
+                    <input semantic="VERTEX" source="#Joint_5_Object_1_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_5_Object_1_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_5_Object_1_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 0 1 0 1 3 1 2 5 1 2 4 1 3 6 0 4 8 0 0 7 0 0 8 0 0 6 0 4 9 0 1 10 1 2 12 1 5 11 1 2 12 1 5 10 1 2 13 1 3 14 2 1 16 2 2 15 2 0 16 2 2 14 2 1 17 2 3 18 0 4 20 0 0 19 0 0 20 0 0 18 0 4 21 0 1 22 1 2 24 1 5 23 1 2 24 1 5 22 1 2 25 1 3 26 2 1 28 2 2 27 2 0 28 2 2 26 2 1 29 2 3 30 3 0 32 3 3 31 3 1 32 3 3 30 3 0 33 3 2 34 4 3 36 4 0 35 4 1 36 4 0 34 4 3 37 4 2 38 5 5 40 6 3 39 6 1 38 5 5 39 6 1 41 5 4 42 7 2 38 5 5 41 5 4 42 7 2 41 5 4 43 7 0 44 5 5 46 6 3 45 6 1 44 5 5 45 6 1 47 5 4 48 7 2 44 5 5 47 5 4 48 7 2 47 5 4 49 7 0</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_6_Object_0_SINGLE-geometry" name="Joint_6_Object_0_SINGLE">
+            <mesh>
+                <source id="Joint_6_Object_0_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_6_Object_0_SINGLE-geometry-POSITION-array" count="12">0 1.53 0.2565622 0 1.740937 0.6784372 0 1.740937 0.2565622 0 1.53 0.6784372</float_array>
+                    <technique_common>
+                        <accessor count="4" offset="0" source="Joint_6_Object_0_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_6_Object_0_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_6_Object_0_SINGLE-geometry-NORMAL-array" count="3">1 0 0</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="Joint_6_Object_0_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_6_Object_0_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_6_Object_0_SINGLE-geometry-TEXCOORD-array" count="8">0 0 1 1 0 1 1 0</float_array>
+                    <technique_common>
+                        <accessor count="4" offset="0" source="Joint_6_Object_0_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_6_Object_0_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_6_Object_0_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="2" material="Joint_6_Object_0_Material_0">
+                    <input semantic="VERTEX" source="#Joint_6_Object_0_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_6_Object_0_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_6_Object_0_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 3 0 3 0 0 0 1 0 1</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Joint_7_Object_0_SINGLE-geometry" name="Joint_7_Object_0_SINGLE">
+            <mesh>
+                <source id="Joint_7_Object_0_SINGLE-geometry-POSITION">
+                    <float_array id="Joint_7_Object_0_SINGLE-geometry-POSITION-array" count="54">-0.0625 0.56625 1.058125 -0.0625 0.44125 0.05812466 -0.0625 0.800625 1.2925 -0.0625 0.394375 1.01125 -0.0625 0.12875 1.105 0.0625 0.394375 1.01125 0.0625 0.44125 0.05812466 0.0625 0.12875 1.105 0.0625 0.56625 1.058125 0.0625 0.800625 1.2925 -0.0625 0.394375 1.01125 0.0625 0.12875 1.105 -0.0625 0.12875 1.105 0.0625 0.394375 1.01125 -0.0625 0.56625 1.058125 0.0625 0.56625 1.058125 -0.0625 0.800625 1.2925 0.0625 0.800625 1.2925</float_array>
+                    <technique_common>
+                        <accessor count="18" offset="0" source="Joint_7_Object_0_SINGLE-geometry-POSITION-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_7_Object_0_SINGLE-geometry-NORMAL">
+                    <float_array id="Joint_7_Object_0_SINGLE-geometry-NORMAL-array" count="18">-1 0 0 1 0 0 0 0.03123475 0.9995121 0 0.3303504 0.9438584 0 -0.4843159 0.8748932 0 -0.6912226 0.7226418</float_array>
+                    <technique_common>
+                        <accessor count="6" offset="0" source="Joint_7_Object_0_SINGLE-geometry-NORMAL-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_7_Object_0_SINGLE-geometry-TEXCOORD">
+                    <float_array id="Joint_7_Object_0_SINGLE-geometry-TEXCOORD-array" count="20">0 0.71875 0 1 0 0.984375 0 0.46875 0 0 1 0.46875 1 1 1 0 1 0.71875 1 0.984375</float_array>
+                    <technique_common>
+                        <accessor count="10" offset="0" source="Joint_7_Object_0_SINGLE-geometry-TEXCOORD-array" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Joint_7_Object_0_SINGLE-vertices">
+                    <input semantic="POSITION" source="#Joint_7_Object_0_SINGLE-geometry-POSITION" />
+                </vertices>
+                <triangles count="12" material="Joint_7_Object_0_Material_0">
+                    <input semantic="VERTEX" source="#Joint_7_Object_0_SINGLE-vertices" offset="0" set="0" />
+                    <input semantic="NORMAL" source="#Joint_7_Object_0_SINGLE-geometry-NORMAL" offset="1" set="0" />
+                    <input semantic="TEXCOORD" source="#Joint_7_Object_0_SINGLE-geometry-TEXCOORD" offset="2" set="0" />
+                    <p>0 0 0 2 0 2 1 0 1 3 0 3 0 0 0 1 0 1 3 0 3 1 0 1 4 0 4 5 1 5 7 1 7 6 1 6 8 1 8 5 1 5 6 1 6 8 1 8 6 1 6 9 1 9 10 2 3 12 3 4 11 3 7 10 2 3 11 3 7 13 2 5 14 4 0 10 2 3 13 2 5 14 4 0 13 2 5 15 4 8 16 5 2 14 4 0 15 4 8 16 5 2 15 4 8 17 5 9</p>
+                </triangles>
+            </mesh>
+        </geometry>
+    </library_geometries>
+    <library_controllers>
+        <controller id="Joint_3_Object_0_SINGLE-controller" name="Joint_3_Object_0_SINGLE">
+            <skin source="#Joint_3_Object_0_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_0_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_0_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_0_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_0_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_0_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_0_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_0_SINGLE-weights">
+                    <float_array id="Joint_3_Object_0_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_0_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_0_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_0_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="48">
+                    <input semantic="JOINT" source="#Joint_3_Object_0_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_0_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_1_SINGLE-controller" name="Joint_3_Object_1_SINGLE">
+            <skin source="#Joint_3_Object_1_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_1_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_1_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_1_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_1_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_1_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_1_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_1_SINGLE-weights">
+                    <float_array id="Joint_3_Object_1_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_1_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_1_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_1_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="26">
+                    <input semantic="JOINT" source="#Joint_3_Object_1_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_1_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_2_SINGLE-controller" name="Joint_3_Object_2_SINGLE">
+            <skin source="#Joint_3_Object_2_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_2_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_2_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_2_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_2_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_2_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_2_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_2_SINGLE-weights">
+                    <float_array id="Joint_3_Object_2_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_2_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_2_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_2_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="42">
+                    <input semantic="JOINT" source="#Joint_3_Object_2_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_2_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_3_SINGLE-controller" name="Joint_3_Object_3_SINGLE">
+            <skin source="#Joint_3_Object_3_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_3_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_3_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_3_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_3_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_3_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_3_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_3_SINGLE-weights">
+                    <float_array id="Joint_3_Object_3_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_3_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_3_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_3_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="6">
+                    <input semantic="JOINT" source="#Joint_3_Object_3_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_3_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_4_SINGLE-controller" name="Joint_3_Object_4_SINGLE">
+            <skin source="#Joint_3_Object_4_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_4_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_4_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_4_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_4_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_4_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_4_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_4_SINGLE-weights">
+                    <float_array id="Joint_3_Object_4_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_4_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_4_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_4_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="18">
+                    <input semantic="JOINT" source="#Joint_3_Object_4_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_4_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_5_SINGLE-controller" name="Joint_3_Object_5_SINGLE">
+            <skin source="#Joint_3_Object_5_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_5_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_5_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_5_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_5_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_5_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_5_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_5_SINGLE-weights">
+                    <float_array id="Joint_3_Object_5_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_5_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_5_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_5_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="34">
+                    <input semantic="JOINT" source="#Joint_3_Object_5_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_5_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_6_SINGLE-controller" name="Joint_3_Object_6_SINGLE">
+            <skin source="#Joint_3_Object_6_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_6_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_6_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_6_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_6_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_6_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_6_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_6_SINGLE-weights">
+                    <float_array id="Joint_3_Object_6_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_6_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_6_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_6_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="12">
+                    <input semantic="JOINT" source="#Joint_3_Object_6_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_6_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_7_SINGLE-controller" name="Joint_3_Object_7_SINGLE">
+            <skin source="#Joint_3_Object_7_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_7_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_7_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_7_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_7_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_7_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_7_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_7_SINGLE-weights">
+                    <float_array id="Joint_3_Object_7_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_7_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_7_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_7_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="14">
+                    <input semantic="JOINT" source="#Joint_3_Object_7_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_7_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_8_SINGLE-controller" name="Joint_3_Object_8_SINGLE">
+            <skin source="#Joint_3_Object_8_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_8_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_8_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_8_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_8_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_8_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_8_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_8_SINGLE-weights">
+                    <float_array id="Joint_3_Object_8_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_8_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_8_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_8_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="50">
+                    <input semantic="JOINT" source="#Joint_3_Object_8_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_8_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_3_Object_9_SINGLE-controller" name="Joint_3_Object_9_SINGLE">
+            <skin source="#Joint_3_Object_9_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_3_Object_9_SINGLE-joints">
+                    <Name_array id="Joint_3_Object_9_SINGLE-joints-array" count="1">JOBJ_3</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_9_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_9_SINGLE-matrices">
+                    <float_array id="Joint_3_Object_9_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_9_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_3_Object_9_SINGLE-weights">
+                    <float_array id="Joint_3_Object_9_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_3_Object_9_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_3_Object_9_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_3_Object_9_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="24">
+                    <input semantic="JOINT" source="#Joint_3_Object_9_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_3_Object_9_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_4_Object_0_SINGLE-controller" name="Joint_4_Object_0_SINGLE">
+            <skin source="#Joint_4_Object_0_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_4_Object_0_SINGLE-joints">
+                    <Name_array id="Joint_4_Object_0_SINGLE-joints-array" count="1">JOBJ_4</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_4_Object_0_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_4_Object_0_SINGLE-matrices">
+                    <float_array id="Joint_4_Object_0_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -0.935 0 0 1 -3.4 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_4_Object_0_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_4_Object_0_SINGLE-weights">
+                    <float_array id="Joint_4_Object_0_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_4_Object_0_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_4_Object_0_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_4_Object_0_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="40">
+                    <input semantic="JOINT" source="#Joint_4_Object_0_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_4_Object_0_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_4_Object_1_SINGLE-controller" name="Joint_4_Object_1_SINGLE">
+            <skin source="#Joint_4_Object_1_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_4_Object_1_SINGLE-joints">
+                    <Name_array id="Joint_4_Object_1_SINGLE-joints-array" count="1">JOBJ_4</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_4_Object_1_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_4_Object_1_SINGLE-matrices">
+                    <float_array id="Joint_4_Object_1_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -0.935 0 0 1 -3.4 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_4_Object_1_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_4_Object_1_SINGLE-weights">
+                    <float_array id="Joint_4_Object_1_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_4_Object_1_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_4_Object_1_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_4_Object_1_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="24">
+                    <input semantic="JOINT" source="#Joint_4_Object_1_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_4_Object_1_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_5_Object_0_SINGLE-controller" name="Joint_5_Object_0_SINGLE">
+            <skin source="#Joint_5_Object_0_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_5_Object_0_SINGLE-joints">
+                    <Name_array id="Joint_5_Object_0_SINGLE-joints-array" count="1">JOBJ_5</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_5_Object_0_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_5_Object_0_SINGLE-matrices">
+                    <float_array id="Joint_5_Object_0_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_5_Object_0_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_5_Object_0_SINGLE-weights">
+                    <float_array id="Joint_5_Object_0_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_5_Object_0_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_5_Object_0_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_5_Object_0_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="121">
+                    <input semantic="JOINT" source="#Joint_5_Object_0_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_5_Object_0_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_5_Object_1_SINGLE-controller" name="Joint_5_Object_1_SINGLE">
+            <skin source="#Joint_5_Object_1_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_5_Object_1_SINGLE-joints">
+                    <Name_array id="Joint_5_Object_1_SINGLE-joints-array" count="1">JOBJ_5</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_5_Object_1_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_5_Object_1_SINGLE-matrices">
+                    <float_array id="Joint_5_Object_1_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -1.36 0 0 1 -1.955 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_5_Object_1_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_5_Object_1_SINGLE-weights">
+                    <float_array id="Joint_5_Object_1_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_5_Object_1_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_5_Object_1_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_5_Object_1_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="50">
+                    <input semantic="JOINT" source="#Joint_5_Object_1_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_5_Object_1_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_6_Object_0_SINGLE-controller" name="Joint_6_Object_0_SINGLE">
+            <skin source="#Joint_6_Object_0_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_6_Object_0_SINGLE-joints">
+                    <Name_array id="Joint_6_Object_0_SINGLE-joints-array" count="1">JOBJ_6</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_6_Object_0_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_6_Object_0_SINGLE-matrices">
+                    <float_array id="Joint_6_Object_0_SINGLE-matrices-array" count="16">1 0 0 0 0 2 0 -3.06 0 0 2 -0.9349995 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_6_Object_0_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_6_Object_0_SINGLE-weights">
+                    <float_array id="Joint_6_Object_0_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_6_Object_0_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_6_Object_0_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_6_Object_0_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="4">
+                    <input semantic="JOINT" source="#Joint_6_Object_0_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_6_Object_0_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+        <controller id="Joint_7_Object_0_SINGLE-controller" name="Joint_7_Object_0_SINGLE">
+            <skin source="#Joint_7_Object_0_SINGLE-geometry">
+                <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+                <source id="Joint_7_Object_0_SINGLE-joints">
+                    <Name_array id="Joint_7_Object_0_SINGLE-joints-array" count="1">JOBJ_7</Name_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_7_Object_0_SINGLE-joints-array" stride="1">
+                            <param name="JOINT" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_7_Object_0_SINGLE-matrices">
+                    <float_array id="Joint_7_Object_0_SINGLE-matrices-array" count="16">1 0 0 0 0 1 0 -0.7225 0 0 1 -1.105 0 0 0 1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_7_Object_0_SINGLE-matrices-array" stride="16">
+                            <param name="TRANSFORM" type="float4x4" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Joint_7_Object_0_SINGLE-weights">
+                    <float_array id="Joint_7_Object_0_SINGLE-weights-array" count="1">1</float_array>
+                    <technique_common>
+                        <accessor count="1" offset="0" source="#Joint_7_Object_0_SINGLE-weights-array" stride="1">
+                            <param name="WEIGHT" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <joints>
+                    <input semantic="JOINT" source="#Joint_7_Object_0_SINGLE-joints" />
+                    <input semantic="INV_BIND_MATRIX" source="#Joint_7_Object_0_SINGLE-matrices" />
+                </joints>
+                <vertex_weights count="18">
+                    <input semantic="JOINT" source="#Joint_7_Object_0_SINGLE-joints" offset="0" set="0" />
+                    <input semantic="WEIGHT" source="#Joint_7_Object_0_SINGLE-weights" offset="1" set="0" />
+                    <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+                    <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+                </vertex_weights>
+            </skin>
+        </controller>
+    </library_controllers>
+    <library_visual_scenes>
+        <visual_scene id="Scene" name="Scene">
+            <node id="JOBJ_0" sid="JOBJ_0" name="JOBJ_0" type="JOINT">
+                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                <node id="JOBJ_1" sid="JOBJ_1" name="JOBJ_1" type="JOINT">
+                    <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                    <node id="JOBJ_2" sid="JOBJ_2" name="JOBJ_2" type="JOINT">
+                        <matrix>1 0 0 0 0 1 0 1.45 0 0 1 5.016 0 0 0 1</matrix>
+                        <node id="JOBJ_3" sid="JOBJ_3" name="JOBJ_3" type="JOINT">
+                            <matrix>1 0 0 0 0 1 0 -0.09 0 0 1 -3.061 0 0 0 1</matrix>
+                            <node id="JOBJ_4" sid="JOBJ_4" name="JOBJ_4" type="JOINT">
+                                <matrix>1 0 0 0 0 1 0 -0.425 0 0 1 1.445 0 0 0 1</matrix>
+                            </node>
+                            <node id="JOBJ_5" sid="JOBJ_5" name="JOBJ_5" type="JOINT">
+                                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                            </node>
+                            <node id="JOBJ_6" sid="JOBJ_6" name="JOBJ_6" type="JOINT">
+                                <matrix>1 0 0 0 0 0.5 0 0.17 0 0 0.5 -1.4875 0 0 0 1</matrix>
+                            </node>
+                            <node id="JOBJ_7" sid="JOBJ_7" name="JOBJ_7" type="JOINT">
+                                <matrix>1 0 0 0 0 1 0 -0.6375 0 0 1 -0.85 0 0 0 1</matrix>
+                            </node>
+                        </node>
+                    </node>
+                </node>
+            </node>
+            <node id="Joint_3_Object_0_SINGLE" sid="Joint_3_Object_0_SINGLE" name="Joint_3_Object_0_SINGLE">
+                <instance_controller url="#Joint_3_Object_0_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_0_Material_0" symbol="Joint_3_Object_0_Material_0" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_1_SINGLE" sid="Joint_3_Object_1_SINGLE" name="Joint_3_Object_1_SINGLE">
+                <instance_controller url="#Joint_3_Object_1_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_1_Material_1" symbol="Joint_3_Object_1_Material_1" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_2_SINGLE" sid="Joint_3_Object_2_SINGLE" name="Joint_3_Object_2_SINGLE">
+                <instance_controller url="#Joint_3_Object_2_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_2_Material_2" symbol="Joint_3_Object_2_Material_2" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_3_SINGLE" sid="Joint_3_Object_3_SINGLE" name="Joint_3_Object_3_SINGLE">
+                <instance_controller url="#Joint_3_Object_3_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_3_Material_3" symbol="Joint_3_Object_3_Material_3" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_4_SINGLE" sid="Joint_3_Object_4_SINGLE" name="Joint_3_Object_4_SINGLE">
+                <instance_controller url="#Joint_3_Object_4_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_4_Material_4" symbol="Joint_3_Object_4_Material_4" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_5_SINGLE" sid="Joint_3_Object_5_SINGLE" name="Joint_3_Object_5_SINGLE">
+                <instance_controller url="#Joint_3_Object_5_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_5_Material_5" symbol="Joint_3_Object_5_Material_5" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_6_SINGLE" sid="Joint_3_Object_6_SINGLE" name="Joint_3_Object_6_SINGLE">
+                <instance_controller url="#Joint_3_Object_6_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_6_Material_6" symbol="Joint_3_Object_6_Material_6" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_7_SINGLE" sid="Joint_3_Object_7_SINGLE" name="Joint_3_Object_7_SINGLE">
+                <instance_controller url="#Joint_3_Object_7_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_7_Material_7" symbol="Joint_3_Object_7_Material_7" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_8_SINGLE" sid="Joint_3_Object_8_SINGLE" name="Joint_3_Object_8_SINGLE">
+                <instance_controller url="#Joint_3_Object_8_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_8_Material_8" symbol="Joint_3_Object_8_Material_8" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_3_Object_9_SINGLE" sid="Joint_3_Object_9_SINGLE" name="Joint_3_Object_9_SINGLE">
+                <instance_controller url="#Joint_3_Object_9_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_3_Object_9_Material_9" symbol="Joint_3_Object_9_Material_9" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_4_Object_0_SINGLE" sid="Joint_4_Object_0_SINGLE" name="Joint_4_Object_0_SINGLE">
+                <instance_controller url="#Joint_4_Object_0_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_4_Object_0_Material_0" symbol="Joint_4_Object_0_Material_0" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_4_Object_1_SINGLE" sid="Joint_4_Object_1_SINGLE" name="Joint_4_Object_1_SINGLE">
+                <instance_controller url="#Joint_4_Object_1_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_4_Object_1_Material_1" symbol="Joint_4_Object_1_Material_1" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_5_Object_0_SINGLE" sid="Joint_5_Object_0_SINGLE" name="Joint_5_Object_0_SINGLE">
+                <instance_controller url="#Joint_5_Object_0_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_5_Object_0_Material_0" symbol="Joint_5_Object_0_Material_0" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_5_Object_1_SINGLE" sid="Joint_5_Object_1_SINGLE" name="Joint_5_Object_1_SINGLE">
+                <instance_controller url="#Joint_5_Object_1_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_5_Object_1_Material_1" symbol="Joint_5_Object_1_Material_1" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_6_Object_0_SINGLE" sid="Joint_6_Object_0_SINGLE" name="Joint_6_Object_0_SINGLE">
+                <instance_controller url="#Joint_6_Object_0_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_6_Object_0_Material_0" symbol="Joint_6_Object_0_Material_0" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+            <node id="Joint_7_Object_0_SINGLE" sid="Joint_7_Object_0_SINGLE" name="Joint_7_Object_0_SINGLE">
+                <instance_controller url="#Joint_7_Object_0_SINGLE-controller">
+                    <skeleton>#JOBJ_0</skeleton>
+                    <bind_material>
+                        <technique_common>
+                            <instance_material target="#Joint_7_Object_0_Material_0" symbol="Joint_7_Object_0_Material_0" />
+                        </technique_common>
+                    </bind_material>
+                </instance_controller>
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#Scene" />
+    </scene>
+</COLLADA>
