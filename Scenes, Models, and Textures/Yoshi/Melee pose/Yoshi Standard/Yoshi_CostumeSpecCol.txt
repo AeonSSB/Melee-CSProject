@@ -1,0 +1,32 @@
+These are the specular colors used for each of Yoshi's costumes (in hex). You can paste these on the appropriate "_SpecCol" property
+in Yoshi's armature.
+
+Aq:
+- Skin: #80ffff
+- Eyelids: #80ffff
+- Shoes: #cc00cc
+
+Bu:
+- Skin: #4c66b3
+- Eyelids: #4c66b3
+- Shoes: #d09290
+
+Nr: 
+- Skin: #73CC66
+- Eyelids: #448D3E
+- Shoes: #C68DE4
+
+Pi:
+- Skin: #ff6699
+- Eyelids: #ff6699
+- Shoes: #ffff00
+
+Re:
+- Skin: #cc8080
+- Eyelids: #cc8080
+- Shoes: #9900cc
+
+Ye:
+- Skin: #ffff4c
+- Eyelids: #ffff4c
+- Shoes: #00ff66
