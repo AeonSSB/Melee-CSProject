@@ -1,5 +1,5 @@
-These are the specular colors used for each of Yoshi's costumes (in hex). You can paste these on the appropriate "_SpecCol" property
-in Yoshi's armature.
+These are the specular colors used for each of Yoshi's costumes (in hex).
+You can paste these on the appropriate "_SpecCol" property in Yoshi's armature.
 
 Aq:
 - Skin: #80ffff
