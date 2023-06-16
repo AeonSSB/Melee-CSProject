@@ -1,5 +1,5 @@
-These are the fur's specular colors used for each of DK's costumes (in hex). You can paste these on the "Fur_SpecCol" property
-in DK's armature.
+These are the fur's specular colors used for each of DK's costumes (in hex).
+You can paste these on the "Fur_SpecCol" property in DK's armature.
 
 Bk: #999999
 Bu: #004cb3
