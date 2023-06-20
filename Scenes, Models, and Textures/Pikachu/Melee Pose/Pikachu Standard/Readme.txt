@@ -1,0 +1,1 @@
+NOTE: The UVs for Pikachu's left eye is flipped horizontally.
