@@ -1,5 +1,5 @@
-These are the colors and specular colors used for each of Ganondorf's costumes (in hex). Paste these on the appropriate
-property in Ganondorf's armature.
+These are the colors and specular colors used for each of Ganondorf's costumes (in hex).
+Paste these on the appropriate property in Ganondorf's armature.
 
 Bu:
 - Jewel_Col: #00FFFF

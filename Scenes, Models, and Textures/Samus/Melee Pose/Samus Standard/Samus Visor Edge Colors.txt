@@ -1,6 +1,0 @@
-The texture for the visor's edges for Samus' Pink costume uses a colored texture to give its blue color. However, its materials
-were set up incorrectly and were colored green instead of its intended color. Here are the hex codes for the visor edge colors.
-Paste the hex colors in the custom property located in Samus' armature.
-
-Pi: #00738b
-Everything else: #55ff00
