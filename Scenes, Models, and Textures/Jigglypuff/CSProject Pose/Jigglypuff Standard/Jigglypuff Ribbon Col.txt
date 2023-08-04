@@ -1,0 +1,3 @@
+Jigglypuff's blue ribbon uses a driver to change its color. If it's ever changed, here is its default color.
+
+Bu: #0000FF
