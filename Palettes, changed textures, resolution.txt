@@ -4,7 +4,7 @@ Some character costumes use palettes instead of textures for certain parts of th
 The exact colours have been copied from HSDraw into very small .png images. Make sure to
 edit them if the costume you want to render has custom palettes.
 
-Those characters are:
+Examples:
 - Ganondorf
   - The jewel on his front uses the Diffuse palette of Object 24
   - His earrings use the Diffuse palette of Object 37
@@ -12,19 +12,22 @@ Those characters are:
 - Falco
   - The inner part of the jacket uses the Diffuse palette of Object 24
 
+Some characters' reflections are also controlled by palettes and tend to be edited across
+costumes. Examples of this are Yoshi and Falco - although Falco uses the same hex for all
+recolors in vanilla Melee, it's mainly something to consider with certain mods that change
+the hex to compliment feather recolors.
+
+The hex used in vanilla Melee are documented in each character's folder inside
+"Scenes, Models, and Textures".
+Palettes can also be used in extra ways to edit a costume, but that's something not covered
+in these Blender scenes by default.
+
 
 CHANGED TEXTURES
 
 Melee uses extra textures for characters' expressions. All the images used by vanilla Melee
 are included, but note that they don't share the same names and have to be picked manually
 from the shader editor before rendering if they're needed.
-In order to have more freedom with characters' expressions, some have Smash 2 textures set
-up instead of Melee ones. In case you want to render a costume with elements like Fox's
-eyes edited, you'll need to either remake the edits with the Smash 2 textures provided
-or replace them with your own Melee textures.
-
-[list characters that use Melee's alternative expression textures]
-[list characters that use Smash 2 textures; edit the text if Fox isn't one of these]
 
 
 RESOLUTION
