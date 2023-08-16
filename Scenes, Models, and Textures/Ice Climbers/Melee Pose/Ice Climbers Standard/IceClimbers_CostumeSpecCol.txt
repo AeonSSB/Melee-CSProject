@@ -1,5 +1,5 @@
-These are the coat's specular colors used for each of Popo's and Nana's costumes (in hex). You can paste these on the 
-"Coat_SpecCol" property in their respective armature.
+These are the coat's specular colors used for each of Popo's and Nana's costumes (in hex).
+You can paste these on the "Coat_SpecCol" property in their respective armature.
 
 Popo:
 - Nr: #281E99
