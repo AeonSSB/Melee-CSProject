@@ -1,0 +1,18 @@
+These are the fill and outline colors used for Mr Game and Watch.
+Note: The Outline color is mixed with the Fill color.
+
+Nr:
+- Fill: #000000
+- Outline: #808080
+
+Re:
+- Fill: #6E0000
+- Outline: #808080
+
+Bu:
+- Fill: #00006E
+- Outline: #808080
+
+Gr:
+- Fill: #006E00
+- Outline: #808080
