@@ -26,7 +26,7 @@ Nr:
 - Earring_SpecCol: #FFFFC7
 
 Re:
-- Jewel_Col: #cc3a4a
-- Jewel_SpecCol: #ffcce6
-- Earring_Col: #cc3a4a
-- Earring_SpecCol: #ffcce6
+- Jewel_Col: #CC3A4A
+- Jewel_SpecCol: #FFCCE6
+- Earring_Col: #CC3A4A
+- Earring_SpecCol: #FFCCE6
