@@ -1,0 +1,12 @@
+These are the colors and specular colors used for each of Sonic's costumes (in hex).
+Paste these on the appropriate property in Sonic's armature.
+
+| Sonic | Blue body      | Shoes         | Bracelets     |
+| ----- | -------------- | ------------- | ------------- |
+| Nr    | a4bdff	 | ff6a6a	 | Nothing       |
+| Bk    | ada4ff	 | b4c1d6	 | b3b3b3        |
+| Gr    | a4ffa6	 | deff6a	 | Nothing       |
+| Or    | ffc080	 | ffc080	 | ffffff        |
+| Re    | ffa4a4	 | ff80ff	 | ff6a6a        |
+| Wh    | c0ffff	 | ffffff	 | ffffff        |
+| Ye    | b7fffc	 | fffab3	 | ffffff        |

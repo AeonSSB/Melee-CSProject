@@ -1,0 +1,11 @@
+These are the colors and specular colors used for each of Wolf's costumes (in hex).
+Paste these on the appropriate property in Wolf's armature.
+
+| Wolf | Boots           | Jacket         | Fur           | Spikes        |
+| ---- | -------------   | -------------  | ------------- | ------------- |
+| Nr   | f0d5ac		 | 808080	  | 808080	  | f8de76	  |
+| Br   | e8ceb5		 | a78658	  | 8a8975	  | f8de76	  |
+| Bu   | b9adef		 | 5f7da0	  | 70828f	  | f8de76	  |
+| Gr   | dcf1ab		 | 70a05f	  | 828976	  | f8de76	  |
+| Rd   | f1abec		 | 9e609f	  | 9e609f	  | f8de76	  |
+| Ye   | ffff80		 | ffff80	  | 748b84	  | f8de76	  |

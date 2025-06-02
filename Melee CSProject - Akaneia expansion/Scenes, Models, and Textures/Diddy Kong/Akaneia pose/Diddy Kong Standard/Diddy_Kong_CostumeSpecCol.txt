@@ -1,0 +1,11 @@
+These are the colors and specular colors used for each of Diddy Kong's costumes (in hex).
+Paste these on the appropriate property in Diddy Kong's armature.
+
+| Diddy      | Fur     |
+| ---------- | ------- |
+| Nr         | ab3d00  |
+| Bu         | a92701  |
+| Gr         | a96601  |
+| Pi         | aa8000  |
+| Wh         | aa2b00  |
+| Ye         | a98301  |

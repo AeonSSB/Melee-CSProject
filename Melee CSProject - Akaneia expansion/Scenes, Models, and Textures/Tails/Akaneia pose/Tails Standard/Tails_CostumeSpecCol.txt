@@ -1,0 +1,10 @@
+Tails Fur Specular Colors per costume:
+Default: #b48c80
+Black: #a09691
+Blue: #b4aa80
+Green: #91b480
+Purple: #b4808c
+Red: #cd6969
+White: #80a0b4
+
+Shoes (All Costumes): #6a6a6a

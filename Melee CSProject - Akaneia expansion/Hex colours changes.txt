@@ -1,0 +1,64 @@
+Bowser
+	White:
+	- Bracelets' spikes: 				9F9400
+	- Body Object_14, 11, 12, 13, 15, 3, 4, 6, 10:	B3B3B3
+	- Stomach (Body Object_7):			C5B9A0
+	- Head Object_18, Object_28:			C6B99F
+
+Donkey Kong
+	Yellow:
+	- Fur_SpecCol	AA6200
+	White:
+	- Fur_SpecCol	808080
+
+Ganondorf
+	White:
+	- Jewel_Col:		C0C0C0
+	- Earring_Col:		C0C0C0
+	- Jewel_SpecCol:	FFFFFF
+	- Earring_SpecCol:	FFFFFF
+
+Ice Climbers
+
+	Popo Blue (Player) & Nana Blue (CPU)
+	- Popo body:	176B7D
+	- Popo arms:	1D949A
+	- Nana body:	30B698
+	Nana Brown (Player) & Popo Green (CPU)
+	- Popo body:	4FFF4F
+	- Nana body:	AC523C
+
+Kirby
+	Brown:
+	- Body and arms: 5B2B0B
+	- Feet: D18801
+
+Mr. Game & Watch
+	White:
+	- Body:		FFFFFF
+	- Outline:	505050
+	Pink:
+	- Body:		EB3FAF
+	- Outline:	FFFFFF
+		Note: F693D8 has been used for the body in the .blend
+
+Samus
+	Aqua:
+	- Visor:	01FED8
+	White:
+	- Visor:	B8CF72
+
+Sheik
+	Black:
+	- Lower body, part of Upper body:	737373
+	- Upper body Object_2, 16, 25, 20, 24:	C2C2C2
+
+Yoshi
+	Black
+	- Skin:		7F7F7F
+	- Eyelids:	3F3F3F
+	- Shoes:	D09290
+	White
+	- Skin:		E4F7FA
+	- Eyelids:	3F3F3F
+	- Shoes:	D09290

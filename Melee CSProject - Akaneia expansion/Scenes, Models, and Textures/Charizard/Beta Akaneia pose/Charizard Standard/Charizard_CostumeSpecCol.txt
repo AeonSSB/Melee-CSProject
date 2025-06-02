@@ -1,0 +1,11 @@
+These are the colors and specular colors used for each of Charizard's costumes (in hex).
+Paste these on the appropriate property in Charizard's armature.
+
+| Charizard        | Orange body     |
+| ---------------- | --------------- |
+| Nr               | cb7038          |
+| Bu               | 38aacb	     |
+| Gr               | 4dce35	     |
+| La               | b03ac9	     |
+| Re               | cf3434	     |
+| Ye               | cdc636	     |
